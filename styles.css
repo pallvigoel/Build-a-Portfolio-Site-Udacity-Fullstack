@@ -10,3 +10,12 @@ body {
 .text-thin {
     font-weight: 100;
 }
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    magin-top: 20px;
+}
+

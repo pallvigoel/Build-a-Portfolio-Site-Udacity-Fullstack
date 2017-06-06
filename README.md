@@ -23,7 +23,7 @@ Reading poorly designed content is never an enjoyable experience; CSS empowers y
 ### Note
 If you were previously enrolled in our Intro to HTML and CSS single course and successfully completed this project prior to enrolling in the Nanodegree program (which entails having graduated from the course and having access to your course certificate), simply email us at frontend-project@udacity.com with your passing evaluation and we'll give you credit for this project.
 
-The design mockup for this project is located [here](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf).
+The design mockup for this project is located ![here](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf).
 
 * Udacity HTML/CSS Style Guide
 * HTML Validator
